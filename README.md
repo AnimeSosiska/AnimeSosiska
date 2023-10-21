@@ -15,7 +15,6 @@
 <a href="https://dev.to/animesosiska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="animesosiska" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22626615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22626615" height="30" width="40" /></a>
 <a href="https://codesandbox.com/animesosiska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="animesosiska" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/animeass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="animeass" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@animesosiska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@animesosiska" height="30" width="40" /></a>
 </p>
 
