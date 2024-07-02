@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
 <h3 align="center">A junior fullstack developer from Russia</h3>
 
-- 🔭 I’m currently working on [anex](https://github.com/AnimeSosiska/anex)
+- 🔭 I’m currently working on nothing...
 
 - 🌱 I’m currently learning **vue3, node.js, typescript**
 
