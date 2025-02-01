@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
 <h3 align="center">A junior fullstack developer from Russia</h3>
 
-- 🔭 I’m currently working on nothing...
+- 🔭 I’m currently working on [todolist](https://github.com/AnimeSosiska/todolist) and [random airdrops](https://github.com/AnimeSosiska/random-airdrops)
 
-- 🌱 I’m currently learning **vue3, node.js, typescript**
+- 🌱 I’m currently learning **vue3, node.js, typescript, lua**
 
 - 📫 How to reach me **mikegolikov3838@gmail.com**
 
