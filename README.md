@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
 <h3 align="center">A junior fullstack developer from Russia</h3>
 
-- 🔭 I’m currently working [random airdrops](https://github.com/AnimeSosiska/random-airdrops)
+- 🔭 I’m currently working [random airdrops](https://github.com/AnimeSosiska/random-airdrops) and [opengrad](https://github.com/Temm4ancki/OpenGrad-MI)
 
 - 🌱 I’m currently learning **vue3, node.js, typescript, lua**
 
