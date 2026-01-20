@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
 <h3 align="center">A junior fullstack developer from Russia</h3>
 
-- 🔭 I’m currently working [random airdrops](https://github.com/AnimeSosiska/random-airdrops) and [opengrad](https://github.com/Temm4ancki/OpenGrad-MI)
+- 🔭 I’m currently working on **nothing**!
 
 - 🌱 I’m currently learning **vue3, node.js, typescript, lua**
 
 - 📫 How to reach me **mikegolikov3838@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact is that I used computers even before I started talking!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
